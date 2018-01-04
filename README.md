@@ -1,8 +1,8 @@
 # vue-particles
 
-Clone This Repository
-npm install 
-npm run dev
+Clone This Repository <br>
+npm install <br>
+npm run dev<br>
 
 
 
